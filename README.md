@@ -9,7 +9,7 @@ AI for Materials Science and Engineering
 * **Generative models**: AI-generated molecular structures can be used to design new materials with specific properties.
 * **Molecular similarity analysis**: AI algorithms can analyze existing molecules and predict the characteristics of similar compounds, which can lead to the identification of new materials with desired properties.
 * **Structure-property relationships**: AI can learn patterns between molecular structure and material properties, enabling the prediction of material behavior.
-### Property Generation
+### Property Prediction
 * **Predictive modeling**: LLMs can be trained on large datasets of existing materials to predict their properties, such as mechanical strength, thermal conductivity, or electrical conductivity.
 * **Material property prediction**: AI algorithms can analyze molecular structures and predict material properties, enabling the identification of new materials with desired characteristics.
 ### Synthesis Planning
