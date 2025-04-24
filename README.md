@@ -1,4 +1,4 @@
-# AI4Mat
+#  Awesome-MaterialAI
 AI for Materials Science and Engineering
 
 ## Materials Discovery
